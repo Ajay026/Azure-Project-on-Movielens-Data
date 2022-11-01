@@ -26,5 +26,8 @@ Here we are going to use Movielens data in the following ways:
 ● In the transformation and load process, the uploaded dataset in Spark is read into Spark dataframes. Data tags are read into Spark in Databricks.  
 ● Finally, data is analyzed into Spark in Databricks using mount points, and data is visualized using bar charts.  
 
-![image](https://user-images.githubusercontent.com/70576003/199225975-7e7adf67-ec3f-4a4f-ac81-6f6506b238e0.png)
+![image](https://user-images.githubusercontent.com/70576003/199225975-7e7adf67-ec3f-4a4f-ac81-6f6506b238e0.png)  
+
+![image](https://user-images.githubusercontent.com/70576003/199226477-929f75f8-51bd-4fbf-a934-b80783b69708.png)
+
 
